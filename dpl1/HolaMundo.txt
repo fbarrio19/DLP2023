@@ -1,0 +1,21 @@
+//*
+Ejemplo HOLAMUNDO.
+*//
+
+class HOLAMUNDO;
+	
+	create
+		inicio; 
+			
+	feature	inicio is
+		/*local
+		do
+			print 'H', 'o', 'l', 'a', ' ', 'M', 'u', 'n', 'd', 'o', '!';
+			println;
+	end /*inicio
+	
+end /*HOLAMUNDO
+
+main
+    inicio(); 
+end /*main
